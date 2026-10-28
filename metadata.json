@@ -1,0 +1,6 @@
+{
+  "name": "ენერგია და გარემო - სასწავლო ქვიზი",
+  "description": "ინტერაქტიული სასწავლო თამაში მე-8 კლასის ფიზიკისთვის: ენერგიის ფორმები, განახლებადი წყაროები და ეკოლოგია.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
